@@ -18,7 +18,7 @@ Para replicar esta demo, necesitas:
 
 ## Demo
 
-Puede siguiente video:
+La grabación de la Demo se encuentra disponible en Youtube:
 
 [Video]([https://www.youtube.com/watch?v=_-5Z_KKzZ3I](https://www.youtube.com/watch?v=_-5Z_KKzZ3I))
 
@@ -27,5 +27,22 @@ Puede siguiente video:
 
 ## Documentación
 
-Puede acceder a la documentación de Vantage en el siguiente enlace: https://docs.teradata.com/r/Teradata-VantageTM-Bring-Your-Own-Model-User-Guide/May-2022
+Analytics 123: Enabling Enterprise AI at Scale
+[Guide](https://assets.teradata.com/resourceCenter/downloads/WhitePapers/Analytics-123-Enabling-Enterprise-AI-at-Scale-MD006623.pdf)
+[Video](https://www.youtube.com/watch?v=-UKK_KRGt9I)
+
+
+Bring Your Own Model
+[Guide](https://docs.teradata.com/r/Teradata-VantageTM-Bring-Your-Own-Model-User-Guide/October-2021/Bring-Your-Own-Model)
+[Video](https://www.youtube.com/watch?v=grq37uW0pxM)
+
+
+Vantage Analytics Library
+[Guide](https://docs.teradata.com/r/Vantage-Analytics-Library-User-Guide/January-2022)
+[Video](https://www.youtube.com/watch?v=qxNw6sM0amg)
+
+
+TeradataML: Teradata Package for Python
+[Guide](https://docs.teradata.com/r/Teradata-Package-for-Python-Function-Reference/November-2021/teradataml-Vantage-Analytics-Library-Functions)
+[Video](https://www.youtube.com/watch?v=YK_x4y52ffc)
 
