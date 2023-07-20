@@ -9,11 +9,11 @@ En esta serie de demos, vermos cómo se utiliza la funcionalidad Bring Your Own 
 
 Para replicar esta demo, necesitas:
 
-- Acceso a una instancia de Vantage (IP, usuario y contraseña). Puedes descargar una Máquina Virtual de: https://downloads.teradata.com/
-- El componente BYOM instalado en alguna base de datos de Vantage
+- Acceso a una instancia de Vantage (IP, usuario y contraseña). La manera más sencilla es crear una máquina en la nube a través de la página: https://clearscape.teradata.com/ También puedes descargar una Máquina Virtual de: https://downloads.teradata.com/ o utilizar algun servidor al que tengas acceso
+- El componente BYOM viene instalado en alguna base de datos de Vantage. Por defecto, es mldb. Pero puede ser otra BD en servidores corporativos.
 - Python y algun GUI. Puede ser en modo local, servidor exclusivo, en la nube, etc.
 - Librería TeradataML. También se puede descargar libremente o instalar directamente con *pip install teradataml*
-- Datasets de churn cargados en Vantage. Puede descargarlos de la carpeta *data* en este repo.
+- Los Datasets que vienen en la carpeta *data* en este repo se pueden cargar utilizando el Notebook correspondiente.
 
 
 ## Demo
