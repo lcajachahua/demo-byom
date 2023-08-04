@@ -3,6 +3,8 @@
 [English Version Here](https://github.com/lcajachahua/demo-byom/blob/master/EN_README.md)
 
 
+Puedes descargar la presentación haciendo clic derecho y eligiendo la opción "Descargar Como.." en este [ENLACE](docs/Pres_Agilizando_Implementacion.pdf)
+
 En esta serie de demos, vermos cómo se utiliza la funcionalidad Bring Your Own Model de Vantage 
 
 ## ¿Qué necesito?
